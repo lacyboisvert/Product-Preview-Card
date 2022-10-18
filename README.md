@@ -43,7 +43,7 @@ Product-Preview-Card/bs4-start/Screen Shot 2022-10-18 at 10.22.37 AM.png
 -  https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa
 
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://sparkling-tulumba-2b15c8.netlify.app/)
 - All I have are the files posted in GitHub. I don't have it hosted on a site. 
 
 ## My process

@@ -30,13 +30,12 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 - See hover and focus states for interactive elements
 
+https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa 
+
 ### Screenshot
 
-![](./screenshot.jpg)
+Included in GiHub files. 
 
-
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
 ### Links
 
